@@ -6,6 +6,7 @@ https://stackoverflow.com/questions/4969171/cannot-make-a-static-reference-to-th
 2. build maven 
 3.  java -jar target/java_basics-1.0-SNAPSHOT.jar
 4. you can also feed file into this custimized function by `cat pom.xml | java -jar target/java_basics-1.0-SNAPSHOT.jar`
+
 ##overload vs overwrite
 cant overwrite main method in java, can overload main method in java. 
 we can overload static method, cant overwirte static method. 
